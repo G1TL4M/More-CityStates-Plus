@@ -1,7 +1,7 @@
 [
   {
 	"name": "Moai",
-		"uniqueTo": ["Polynesia","Rapa Nui"],
+		"uniqueTo": "Rapa Nui",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 4,
