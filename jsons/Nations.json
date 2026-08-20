@@ -1,15 +1,51 @@
 [
 	{
-		"name": "Loulan",
-		"adiective": ["Loulan"],
+		"name": "Bukhara",
+		"adiective": ["Bukharian"],
+		"cityStateType": "Silk Road",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [97,208,236],
+		"cities": ["Bukhara"]
+	},
+	{
+		"name": "Kucha",
+		"adiective": ["Kuch"],
 		"cityStateType": "Silk Road",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
+		"innerColor": [215,196,108],
+		"cities": ["Kucha"]
+	},
+	{
+		"name": "Loulan",
+		"adiective": ["Loulan"],
+		"cityStateType": "Silk Road",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! history shall remember this!",
+		"outerColor": [0, 0, 0],
 		"innerColor": [255,186,27],
 		"cities": ["Loulan"]
+	},
+	{
+		"name": "Turpan",
+		"adiective": ["Turpan"],
+		"cityStateType": "Silk Road",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [168,77,236],
+		"cities": ["Turpan"]
 	},
 	{
 		"name": "Samarkand",
