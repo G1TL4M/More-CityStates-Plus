@@ -1,13 +1,25 @@
 [
 	{
-		"name": "Rapa Nui",
-		"adjective": ["Rapa Nui"],
-		"cityStateType": "Cultured",
+		"name": "Loulan",
+		"adiective": ["Loulan"],
+		"cityStateType": "Silk Road",
+
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Please take care of our Moai while you're here.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [80, 0, 190],
-		"cities": ["Rapa Nui"]
-	}
+		"innerColor": [255,186,27],
+		"cities": ["Loulan"]
+	},
+	{
+		"name": "Samarkand",
+		"adjective": ["Samarqandlik"],
+		"cityStateType": "Silk Road",
+		
+		"declaringWar": "You leave us no choice, War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [230,230,46],
+		"cities": ["Samarkand"]
 ]
