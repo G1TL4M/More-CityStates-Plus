@@ -14,4 +14,19 @@
         ],
         "color": [255, 255, 200]
   },
+  {
+    "name": "Antarctic",
+        "friendBonusUniques":  [
+            "[+3 Science] <before the [Medieval era]>",
+            "[+6 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Science] <starting from the [Industrial era]>",
+        ],
+        "allyBonusUniques":  [
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
+            "[+1 Food, +1 Science] from [Snow] tiles [in all cities]",
+        ],
+        "color": [216, 231, 255]
+  },
 ]
