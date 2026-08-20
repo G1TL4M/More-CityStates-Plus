@@ -2,8 +2,8 @@
 	{
 		"name": "Rapa Nui Worker",
 		"unitType": "Civilian",
-		"uniqueTo", "Rapa Nui",
-		"replaces", "Worker",
+		"uniqueTo": "Rapa Nui",
+		"replaces": "Worker",
 		"movement": 2,
 		"requiredTech": "Agriculture",
 		"uniques": ["Can build [Land] improvements on tiles", "Can build [Moai] improvements on tiles", "Automation is a primary action"],
